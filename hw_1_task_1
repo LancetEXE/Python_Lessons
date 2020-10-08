@@ -1,0 +1,9 @@
+hwnumber = 1
+tasknumber = 1
+print("Домашняя работа номер", hwnumber)
+print("Задача номер", tasknumber)
+
+username = input("Введите Ваше имя: ")
+userage = int(input("Укажите Ваш возраст: "))
+print(username, userage, "лет")
+
